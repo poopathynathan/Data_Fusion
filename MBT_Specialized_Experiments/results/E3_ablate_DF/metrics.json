@@ -1,0 +1,7 @@
+{
+    "Experiment": "E3_ablate_DF",
+    "Accuracy": 0.96,
+    "Macro_Precision": 0.9649122807017544,
+    "Macro_Recall": 0.9607843137254902,
+    "Macro_F1": 0.9606481481481483
+}

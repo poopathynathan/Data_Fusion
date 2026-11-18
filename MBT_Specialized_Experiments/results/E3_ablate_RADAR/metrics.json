@@ -1,0 +1,7 @@
+{
+    "Experiment": "E3_ablate_RADAR",
+    "Accuracy": 0.68,
+    "Macro_Precision": 0.5050505050505051,
+    "Macro_Recall": 0.6666666666666666,
+    "Macro_F1": 0.56
+}

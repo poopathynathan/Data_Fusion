@@ -1,0 +1,7 @@
+{
+    "Experiment": "E1_permute_DF",
+    "Accuracy": 0.5893333333333334,
+    "Macro_Precision": 0.6465632912130864,
+    "Macro_Recall": 0.5910130718954248,
+    "Macro_F1": 0.6055420931739769
+}

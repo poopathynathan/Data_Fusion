@@ -1,0 +1,7 @@
+{
+    "Experiment": "E5_global_feature_shuffle",
+    "Accuracy": 0.5853333333333334,
+    "Macro_Precision": 0.6082622778430876,
+    "Macro_Recall": 0.5855392156862744,
+    "Macro_F1": 0.5924385783583977
+}

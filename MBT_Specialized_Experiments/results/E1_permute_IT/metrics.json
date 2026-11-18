@@ -1,0 +1,7 @@
+{
+    "Experiment": "E1_permute_IT",
+    "Accuracy": 1.0,
+    "Macro_Precision": 1.0,
+    "Macro_Recall": 1.0,
+    "Macro_F1": 1.0
+}
