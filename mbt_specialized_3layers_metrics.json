@@ -1,0 +1,28 @@
+{
+  "layers": 3,
+  "seed": 42,
+  "train_samples": 3500,
+  "validation_samples": 750,
+  "test_samples": 750,
+  "test_accuracy": 1.0,
+  "test_macro_f1": 1.0,
+  "test_log_loss": 0.032003071159124374,
+  "confusion_matrix": [
+    [
+      255,
+      0,
+      0
+    ],
+    [
+      0,
+      255,
+      0
+    ],
+    [
+      0,
+      0,
+      240
+    ]
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\n       Drone     1.0000    1.0000    1.0000       255\n        Bird     1.0000    1.0000    1.0000       255\n     Clutter     1.0000    1.0000    1.0000       240\n\n    accuracy                         1.0000       750\n   macro avg     1.0000    1.0000    1.0000       750\nweighted avg     1.0000    1.0000    1.0000       750\n"
+}
